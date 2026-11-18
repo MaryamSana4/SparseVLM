@@ -1,0 +1,10 @@
+                              precision    recall  f1-score   support
+
+Choroidal neovascularization       0.97      0.99      0.98       166
+                      DRUSEN       0.98      0.99      0.98       166
+      Diabetic macular edema       0.99      0.98      0.98       166
+                      NORMAL       1.00      0.98      0.99       166
+
+                    accuracy                           0.98       664
+                   macro avg       0.99      0.98      0.98       664
+                weighted avg       0.99      0.98      0.98       664
